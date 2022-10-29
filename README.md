@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Java , SQL , Web Front-end**
 
-- 👨‍💻 Portfolio site [https://oksachin.netlify.app/](oksachin.netlify.app)
+- 👨‍💻 Portfolio site [oksachin.netlify.app](https://oksachin.netlify.app/)
 
 - 📫 How to reach me **sachinsinghdangi04@gmail.com**
 
