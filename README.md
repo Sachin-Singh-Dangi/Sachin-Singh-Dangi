@@ -27,7 +27,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ok_sachin_dangi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ok_sachin_dangi" height="30" width="40" /></a>
-<a href="https://www.behance.net/ka1.viz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ka1.viz" height="30" width="40" /></a>
+<a href="https://www.behance.net/ka1.viz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ka1.Viz" height="30" width="40" /></a>
 </p>
 
 
