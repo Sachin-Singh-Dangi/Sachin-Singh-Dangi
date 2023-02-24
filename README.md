@@ -15,7 +15,7 @@
       alt="coding"
     />
 
-- 🌱 I’m currently learning **Java , SQL , Web Front-end**
+- 🌱 I’m currently learning **Python , Node Js , Web **
 
 - 👨‍💻 Portfolio site [oksachin.netlify.app](https://oksachin.netlify.app/)
 
